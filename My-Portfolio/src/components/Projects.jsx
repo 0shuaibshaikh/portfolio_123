@@ -21,7 +21,7 @@ function Projects() {
       name: "Spring Boot",
       title: "Online Banking Application",
       description: "Modern Banking App powered by Spring Boot with account services, transfers, and secure login.",
-      link: "https://github.com/0shuaibshaikh/springboot-bank" // Spring Boot project link
+      link: "https://github.com/0shuaibshaikh/Bank-App_11#" 
     },
     {
       id: 4,
@@ -29,7 +29,7 @@ function Projects() {
       name: "Javascript",
       title: "Quiz Application",
       description: "Quiz Application using HTML, CSS, JavaScript, and PHP API with random questions, multiple-choice support, real-time timer, and score display.",
-      link: "https://github.com/0shuaibshaikh/quiz-app" 
+      link: "https://github.com/0shuaibshaikh/Quiz-Master-123.git" 
     },
     {
       id: 5,
