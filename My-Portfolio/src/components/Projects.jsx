@@ -37,7 +37,7 @@ function Projects() {
       name: "Python",
       title: "AMS",
       description: "AMS using Python and Flask attendance tracking, leave management, and Excel report export",
-      link: "https://github.com/0shuaibshaikh/ams-python" 
+      link: "https://github.com/0shuaibshaikh/ams-system" 
     },
     {
       id: 6,
